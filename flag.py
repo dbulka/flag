@@ -23,7 +23,7 @@ def flag(N):
     # create loop for half cirle stings
     for x in range(0, int(N/2)):
 
-    # create up-part of flag with circle, i think better define as function
+    # create up-part of flag with circle, i think better define as separate function
         c = 3*N/2 - N
         i = 0
         # for i in
